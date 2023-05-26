@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T09:05:00.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="HaW6CZMGTgGPegthJ6BM" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T10:10:28.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="NkU5RMH6tMadH2tldLip" version="21.3.4" type="github" pages="2">
   <diagram name="第 1 页" id="V1Kh60zSEFwvZyxF-5lB">
     <mxGraphModel dx="1423" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2404,8 +2404,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wFPXFdsAvhuZ9eLlfo5F-472" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Fig. 1. The fusion process of FCN to recover the fine details of the segmentation results.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="431" width="840" height="30" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NCN66blH6RHmzteBL9CX" name="第 2 页">
+    <mxGraphModel dx="996" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qpVfFkiGtyfRNastC0GQ-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Images&lt;/font&gt;" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qpVfFkiGtyfRNastC0GQ-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;H×W×3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="154" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qpVfFkiGtyfRNastC0GQ-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Patch Partition&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="40" height="182" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
