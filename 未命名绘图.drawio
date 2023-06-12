@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T01:49:24.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="JVVSLtVgsLim2uA9Qywr" version="21.3.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-12T01:51:37.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="ikP8V_01vTlPVgmZcKdP" version="21.3.8" type="github" pages="3">
   <diagram name="第 1 页" id="V1Kh60zSEFwvZyxF-5lB">
     <mxGraphModel dx="996" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2667,6 +2667,9 @@
         <mxCell id="ZtTpqu30uTfUIiA8TDpP-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Reshape&amp;amp;&lt;br&gt;Linear&amp;nbsp;Embedding&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="91" y="960" width="182" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="E3qic-EdXITHYhRyvR3q-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZtTpqu30uTfUIiA8TDpP-3" target="E3qic-EdXITHYhRyvR3q-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZtTpqu30uTfUIiA8TDpP-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Swin&amp;nbsp;&lt;br&gt;Transformer&lt;br&gt;&amp;nbsp;Blocks&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="123" y="823" width="117" height="90" as="geometry" />
         </mxCell>
@@ -2706,6 +2709,14 @@
         <mxCell id="E3qic-EdXITHYhRyvR3q-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Reshape&amp;amp;&lt;br&gt;Linear&amp;nbsp;Embedding&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="91" y="710" width="182" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="E3qic-EdXITHYhRyvR3q-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E3qic-EdXITHYhRyvR3q-7" target="E3qic-EdXITHYhRyvR3q-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="184" y="573" />
+              <mxPoint x="184" y="541" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="E3qic-EdXITHYhRyvR3q-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Swin&amp;nbsp;&lt;br&gt;Transformer&lt;br&gt;&amp;nbsp;Blocks&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="123" y="573" width="117" height="90" as="geometry" />
         </mxCell>
@@ -2735,6 +2746,13 @@
         </mxCell>
         <mxCell id="E3qic-EdXITHYhRyvR3q-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Reshape&amp;amp;&lt;br&gt;Linear&amp;nbsp;Embedding&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="92.5" y="460" width="182" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="E3qic-EdXITHYhRyvR3q-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E3qic-EdXITHYhRyvR3q-12" target="E3qic-EdXITHYhRyvR3q-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="323" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="E3qic-EdXITHYhRyvR3q-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Swin&amp;nbsp;&lt;br&gt;Transformer&lt;br&gt;&amp;nbsp;Blocks&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="124.5" y="323" width="117" height="90" as="geometry" />
